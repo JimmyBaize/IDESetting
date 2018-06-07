@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '[quartz-core] - ...\quartz\quartz-core\src\main\java\org\quartz\core\QuartzSchedulerResources.java'" />
-    <option name="defaultScopeName" value="File '[quartz-core] - ...\quartz\quartz-core\src\main\java\org\quartz\core\QuartzSchedulerResources.java'" />
-    <option name="SEARCH_SCOPE" value="File '[quartz-core] - ...\quartz\quartz-core\src\main\java\org\quartz\core\QuartzSchedulerResources.java'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
       <mask>*.properties</mask>
