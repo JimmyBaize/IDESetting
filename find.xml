@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="File 'D:\repository\org\springframework\spring-beans\4.3.5.RELEASE\spring-beans-4.3.5.RELEASE-sources.jar!\org\springframework\beans\factory\support\AbstractBeanFactory.java'" />
+    <option name="defaultScopeName" value="File 'D:\repository\org\springframework\spring-beans\4.3.5.RELEASE\spring-beans-4.3.5.RELEASE-sources.jar!\org\springframework\beans\factory\support\AbstractBeanFactory.java'" />
+    <option name="SEARCH_SCOPE" value="File 'D:\repository\org\springframework\spring-beans\4.3.5.RELEASE\spring-beans-4.3.5.RELEASE-sources.jar!\org\springframework\beans\factory\support\AbstractBeanFactory.java'" />
     <option name="FILE_MASK" value="*" />
     <recentFileMasks>
       <mask>*.properties</mask>
