@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File 'D:\repository\com\alibaba\druid\1.0.31\druid-1.0.31-sources.jar!\com\alibaba\druid\pool\DruidDataSource.java'" />
-    <option name="defaultScopeName" value="File 'D:\repository\com\alibaba\druid\1.0.31\druid-1.0.31-sources.jar!\com\alibaba\druid\pool\DruidDataSource.java'" />
-    <option name="SEARCH_SCOPE" value="File 'D:\repository\com\alibaba\druid\1.0.31\druid-1.0.31-sources.jar!\com\alibaba\druid\pool\DruidDataSource.java'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <option name="FILE_MASK" value="*" />
     <recentFileMasks>
       <mask>*.properties</mask>
