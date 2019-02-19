@@ -12,8 +12,8 @@
           <option name="importOrderConfigFilePath" value="D:/SHC/doc2/公共/流程规范/常用模板/SmartHomeCodeStyle/eclipse_organize_imports.importorder" />
           <option name="importOrderFromFile" value="true" />
           <option name="name" value="shc" />
-          <option name="pathToConfigFileJava" value="D:/SHC/doc2/公共/流程规范/常用模板/SmartHomeCodeStyle/eclipse_codeformatter.xml" />
-          <option name="selectedJavaProfile" value="SmartHome" />
+          <option name="pathToConfigFileJava" value="D:/WD/doc/公共/流程规范/常用模板/CodeStyle/CodeFormatterFromEclipse.xml" />
+          <option name="selectedJavaProfile" value="CodeFormatter" />
         </Settings>
       </list>
     </option>
