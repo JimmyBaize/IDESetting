@@ -1,12 +1,12 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="Directory '[webplatform] - D:\SHC\thing.code\ThingsPlatform\Webplatform\src\test\java'" />
-    <option name="defaultScopeName" value="Directory '[webplatform] - D:\SHC\thing.code\ThingsPlatform\Webplatform\src\test\java'" />
+    <option name="customScope" value="Directory '[webplatform-cse-parent] - D:\SHC\thing.code\ThingsPlatform\webplatform-cse-parent'" />
+    <option name="defaultScopeName" value="Directory '[webplatform-cse-parent] - D:\SHC\thing.code\ThingsPlatform\webplatform-cse-parent'" />
     <option name="localRegularExpressions" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="Directory '[webplatform] - D:\SHC\thing.code\ThingsPlatform\Webplatform\src\test\java'" />
+    <option name="SEARCH_SCOPE" value="Directory '[webplatform-cse-parent] - D:\SHC\thing.code\ThingsPlatform\webplatform-cse-parent'" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
