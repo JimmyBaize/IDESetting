@@ -7,7 +7,6 @@
           <option name="name" value="new (1)" />
         </Settings>
         <Settings>
-          <option name="formatter" value="ECLIPSE" />
           <option name="id" value="1528977560946" />
           <option name="importOrderConfigFilePath" value="D:/SHC/doc2/公共/流程规范/常用模板/SmartHomeCodeStyle/eclipse_organize_imports.importorder" />
           <option name="importOrderFromFile" value="true" />
